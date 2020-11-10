@@ -35,7 +35,7 @@ THEN I am taken to the corresponding section of the README
 * Link to GitHub Repo: https://github.com/Alex-Tatum/README-Generator
 ## Screenshot
 Example of README.md file created by application. 
-![readme-example](Develop/Readme.png)
+![readme-example](README generator/Develop/Readme.png)
 
 ## Instructions for Use
 * Open GitBash and navigate to the directory where the package.json and index.js files are.
